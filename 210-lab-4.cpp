@@ -1,5 +1,5 @@
 // COMSC-210 | Lab 4 | Majd Bohsali
-// IDE used: Majd Bohsali
+// IDE used: Visual Studio Code
 
 #include <iostream>
 using namespace std;
